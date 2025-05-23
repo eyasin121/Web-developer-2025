@@ -1,0 +1,121 @@
+*************************************
+*           Target 15 day           *
+*************************************
+
+********
+HTML
+******** 
+Introduction
+Editors
+Basic
+Elements
+Attributes
+Headings
+Paragraphs
+Styles
+Formatting
+Quotations
+Comments
+Colors
+CSS
+Links
+Images
+Favicon
+Page Title
+Tables
+Lists
+Block & Inline
+Div
+Classes
+Id
+Iframes
+JavaScript
+Forms
+Input Types
+Input Attributes
+Input Form Attributes
+Graphics
+Media
+Video
+Audio
+Plug-ins
+Attributes
+
+
+**********************
+*         CSS        *
+**********************
+Syntax
+Selectors
+Comments
+Colors
+Backgrounds
+Borders
+Margins
+Padding
+Height/Width
+Box Model
+Text
+Fonts
+Icons
+Links
+Lists
+Tables
+Display
+Max-width
+Position
+Z-index
+Overflow
+Float
+Inline-block
+Align
+Combinators
+Pseudo-classes
+Pseudo-elements
+Opacity
+Navigation Bar
+Dropdowns
+Image Gallery
+Image Sprites
+Attr Selectors
+Forms
+Counters
+Rounded Corners
+Border Images
+Backgrounds
+Colors
+Color Keywords
+Gradients
+Shadows
+Text Effects
+Web Fonts
+2D Transforms
+3D Transforms
+Transitions
+Animations
+Tooltips
+Image Styling
+Image Centering
+Image Filters
+Image Shapes
+CSS Buttons
+CSS Variables
+Box Sizing
+Media Queries
+Flexbox
+Flexbox Intro
+Flex Container
+Flex Items
+Flex Responsive
+Grid
+Grid Intro
+Grid Columns/Rows
+Grid Container
+Grid Item
+
+
+******************************************************
+
+
+
+https://techno-blog-zeta.vercel.app/
